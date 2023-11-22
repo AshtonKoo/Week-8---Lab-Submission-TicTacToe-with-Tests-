@@ -47,7 +47,6 @@ class TestTicTacToe(unittest.TestCase):
         self.game.board = [["X", "X", "X"], [None, "O", None], [None, None, "O"]]
         self.assertEqual(self.game.get_winner(), "X")
 
-    # Additional tests can be added for more thorough coverage
 
 if __name__ == '__main__':
     unittest.main()
