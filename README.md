@@ -1,1 +1,2 @@
-# Week-8---Lab-Submission-TicTacToe-with-Tests-
+# techin509b-tictactoe
+Starter code for the Tic Tac Toe assignments
